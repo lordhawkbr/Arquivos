@@ -11,7 +11,7 @@
   /* Background color for the entire website, including individual sections */
   --default-color: #222222;
   /* Default color used for the majority of the text content across the entire website */
-  --heading-color: #172a28;
+  --heading-color: #A68722;
   /* Color for headings, subheadings and title throughout the website */
   --accent-color: #DEB754;
   /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
@@ -31,7 +31,7 @@
   /* Used as the background color for mobile navigation menu */
   --nav-dropdown-background-color: #ffffff;
   /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
-  --nav-dropdown-color: #01433c;
+  --nav-dropdown-color: #A68722;
   /* Used for navigation links of the dropdown items in the navigation menu. */
   --nav-dropdown-hover-color: #DEB754;
   /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
@@ -57,7 +57,7 @@
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --accent-color: #ffffff;
-  --surface-color: #00b6a1;
+  --surface-color: #F5D48F;
   --contrast-color: #ffffff;
 }
 
@@ -2235,13 +2235,6 @@ section,
   font-style: italic;
   margin: 0 0 15px 0 0 0;
   padding: 0;
-}
-
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
 }
 
 /*--------------------------------------------------------------
